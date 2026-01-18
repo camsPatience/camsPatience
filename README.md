@@ -1,8 +1,7 @@
 ### hi i'm cam, your local ram
-(he/they)
+(she/they/he)
 
-you'll mostly just find my little KH2FM minimods on here - little cosmetic things that don't affect the gameplay or exist for QoL's sake
-i hope you get some good use out of them :)
+mini-mods and the like. i hope you get some nice use out of them :D
 
 <!--
 **camsPatience/camsPatience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
